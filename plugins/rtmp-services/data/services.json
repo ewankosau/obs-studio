@@ -10,6 +10,10 @@
                     "name": "Asia: Hong Kong",
                     "url": "rtmp://live-hkg.twitch.tv/app"
                 },
+		{
+                    "name": "Asia: Manila, Philippines",
+                    "url": "rtmp://live-mnl.twitch.tv/app"
+                },
                 {
                     "name": "Asia: Seoul, South Korea",
                     "url": "rtmp://live-sel.twitch.tv/app"
